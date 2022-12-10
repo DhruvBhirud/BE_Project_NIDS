@@ -1,4 +1,4 @@
-# Network-Intrusion-Detection-System
+# Cyber-Security-Intrusion-Detection-System
 
 ## Table of Content
   * [Directory Tree](#directory-tree)
@@ -148,39 +148,13 @@ For more about data: http://www.unb.ca/cic/datasets/nsl.html
 
 Just follow 3 simple steps :
 
-1. Go to project website link https://nids-api.herokuapp.com/ .<br>
+1. Go to project website link https://nids.onrender.com/ .<br>
 
 2. Fill the form as shown below :<br><br>
 
-![](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/results/2020-06-15%2015_28_16-Window.png)<br>
-![](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/results/2020-06-15%2015_29_02-Window.png)<br>
+![](./results/2020-06-15%2015_28_16-Window.png)<br>
+![](./results/2020-06-15%2015_29_02-Window.png)<br>
 
 3. Then Click on Predict and you get the predicted attack class .<br><br>
 
-![](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/results/2020-06-15%2015_30_02-Window.png)<br>
-
-**If you face any problem :** email me at *vg60629@gmail.com*
-
-### LICENSE
-
-[MIT License](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/LICENSE)
-
-Copyright (c) 2020 Vicky Gupta
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+![](./results/2020-06-15%2015_30_02-Window.png)<br>
