@@ -36,10 +36,6 @@ input[type=submit]:hover {
   text-align: center;
 }
 
-.centerbutton {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
-  
+.buttoncenter {
+  text-align: center;
 }
